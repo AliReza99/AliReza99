@@ -1,9 +1,4 @@
-<div style="display: flex; align-items: center; gap:1rem">
-  <span style="font-size:2rem">Hi, I'm Alireza</span>
-   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVxeHFla2lrYmNwd2x0bTFpNWpza2gwM2UxM2hhdWVjYXd0NWpnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MxZKME5mbgeXckKp14/giphy.gif" width="60" />
-</div>
-
-<br />
+## Hi, I'm Alireza &nbsp; <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVxeHFla2lrYmNwd2x0bTFpNWpza2gwM2UxM2hhdWVjYXd0NWpnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MxZKME5mbgeXckKp14/giphy.gif" width="50">
 
 <a href="https://react.dev" target="blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="28" /></a>
 <a href="https://www.typescriptlang.org/docs/handbook/utility-types.html" target="blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="28" /></a>
