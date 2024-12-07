@@ -1,10 +1,4 @@
-<img alt="Static Badge" align="center" height="40" src="https://img.shields.io/badge/Hey%20there%2C%20I'm%20Alireza-%23000?style=for-the-badge">
-&nbsp;
-&nbsp;
-<img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hxYjFyNzh2bmpxbnIzZHBtaHk1anVhcGVjMWJnZnRnOHJoY3ZieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ndklThG9vUUdTmgMn/giphy.gif" width="50">
-
-<img alt="Static Badge" align="left" height="1" width="100%" src="https://img.shields.io/badge/-%23333?style=for-the-badge">
-<br />
+# Hi, I'm Alireza &nbsp; <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hxYjFyNzh2bmpxbnIzZHBtaHk1anVhcGVjMWJnZnRnOHJoY3ZieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ndklThG9vUUdTmgMn/giphy.gif" width="50">
 
 <span>Technologies</span>
 
