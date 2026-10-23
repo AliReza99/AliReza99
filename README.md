@@ -10,6 +10,7 @@
 
 <span>Links</span>
 
+<a href="https://alirezbhr.site" target="blank"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logoColor=white" height="28" /></a>
 <a href="https://www.npmjs.com/~arbz" target="blank"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" height="28" /></a>
 <a href="mailto:alirezawbhr@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
 <a href="https://www.linkedin.com/in/alireza-bahrani-a60412196" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
