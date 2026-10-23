@@ -16,14 +16,12 @@
 
 <span>Repositories</span>
 
+[![Static Badge](https://img.shields.io/badge/github-loader?style=for-the-badge&logo=github&label=pressit&color=%23eee)](https://github.com/AliReza99/pressit)
+
 [![Static Badge](https://img.shields.io/badge/github-loader?style=for-the-badge&logo=github&label=i18extract&color=%23eee)](https://github.com/AliReza99/i18extract)
 
 [![Static Badge](https://img.shields.io/badge/github-loader?style=for-the-badge&logo=github&label=generate-tailwindcss-safelist&color=%23eee)](https://github.com/AliReza99/generate-tailwindcss-safelist)
 
 [![Static Badge](https://img.shields.io/badge/github-txt?style=for-the-badge&logo=github&label=glob-import-loader&color=%23eee)](https://github.com/AliReza99/glob-import-loader)
-
-[![Static Badge](https://img.shields.io/badge/github-loader?style=for-the-badge&logo=github&label=try-to-js&color=%23eee)](https://github.com/AliReza99/try-to-js)
-
-[![Static Badge](https://img.shields.io/badge/github-loader?style=for-the-badge&logo=github&color=%23eee&label=tailwindcss-candidates)](https://github.com/AliReza99/tailwindcss)
 
 [![Static Badge](https://img.shields.io/badge/github-loader?style=for-the-badge&logo=github&color=%23eee&label=ts-deep-flatten)](https://github.com/AliReza99/ts-deep-flatten)
