@@ -19,6 +19,8 @@
 
 [![Static Badge](https://img.shields.io/badge/github-loader?style=for-the-badge&logo=github&label=pressit&color=%23eee)](https://github.com/AliReza99/pressit)
 
+[![Static Badge](https://img.shields.io/badge/github-loader?style=for-the-badge&logo=github&label=bina-persian-ocr&color=%23eee)](https://github.com/AliReza99/bina-persian-ocr)
+
 [![Static Badge](https://img.shields.io/badge/github-loader?style=for-the-badge&logo=github&label=i18extract&color=%23eee)](https://github.com/AliReza99/i18extract)
 
 [![Static Badge](https://img.shields.io/badge/github-loader?style=for-the-badge&logo=github&label=generate-tailwindcss-safelist&color=%23eee)](https://github.com/AliReza99/generate-tailwindcss-safelist)
